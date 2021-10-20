@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Bernardo Rittmeyer!</h1>
+![header](https://user-images.githubusercontent.com/201125/138093083-f1340957-8040-4bfd-aad3-07be78291f17.png)
+
 
 ## 👋 Hello there!
 My name is Bernardo Rittmeyer, I'm a Software Engineer. I'm from Brazil, currently living in Singapore and working for @twitter.
@@ -6,20 +7,14 @@ My name is Bernardo Rittmeyer, I'm a Software Engineer. I'm from Brazil, current
 
 
 ## ☎️ Connect with me
-<div> 
-  <a href="https://twitter.com/rittmeyer" target="blank">
-    <img src="https://img.shields.io/twitter/follow/rittmeyer?logo=twitter&style=for-the-badge" alt="rittmeyer" />
-  </a> 
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bernardorittmeyer/?locale=en_US">
-    <img height=30 src="https://user-images.githubusercontent.com/201125/113857564-40726880-97d5-11eb-900b-9cec6c073610.png">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://matrix.to/#/@rittme:matrix.org" target="blank">
-    <img style="vertical-align:middle" height=40 src="https://user-images.githubusercontent.com/201125/137852805-27ef991a-1772-4750-bf13-6bdaea9c0464.png">
-  </a> 
 
-</div>
+  <a href="https://twitter.com/rittmeyer" target="blank"><img src="https://img.shields.io/twitter/follow/rittmeyer?style=social" alt="twitter: rittmeyer" /></a> 
+  <br>
+  <br>
+  <a href="https://matrix.to/#/@rittme:matrix.org" target="blank"><img src="https://img.shields.io/badge/matrix-rittme-lightgrey?logo=matrix"></a>
+  <br>
+  <br>
+  <a href="https://www.linkedin.com/in/bernardorittmeyer/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-bernardorittmeyer-blue?logo=linkedin"></a>
 
 ## 📊 Stats
 
