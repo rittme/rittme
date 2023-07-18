@@ -2,31 +2,34 @@
 
 
 ## 👋 Hello there!
-My name is Bernardo Rittmeyer, I'm a Software Engineer. I'm from Brazil, currently living in Singapore and working for @twitter.
+My name is Bernardo Rittmeyer, I'm a Full-Stack Software Engineer. I'm from Brazil, currently living in Singapore.
 
 
 
-## ☎️ Connect with me
+## ☎️ Get in touch
 
-  <a href="https://twitter.com/rittmeyer" target="blank"><img src="https://img.shields.io/twitter/follow/rittmeyer?style=social" alt="twitter: rittmeyer" /></a> 
+  <a href="https://www.linkedin.com/in/bernardorittmeyer/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-bernardorittmeyer-blue?logo=linkedin"></a>
   <br>
+  <a href="https://macaw.social/@rittme" target="blank">
+    <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109379398461275954?domain=https%3A%2F%2Fmacaw.social&style=social">
+  </a>
+  <br>
+  <a href="https://twitter.com/rittmeyer" target="blank"><img src="https://img.shields.io/twitter/follow/rittmeyer?style=social" alt="twitter: rittmeyer" /></a>
   <br>
   <a href="https://matrix.to/#/@rittme:matrix.org" target="blank"><img src="https://img.shields.io/badge/matrix-rittme-lightgrey?logo=matrix"></a>
-  <br>
-  <br>
-  <a href="https://www.linkedin.com/in/bernardorittmeyer/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-bernardorittmeyer-blue?logo=linkedin"></a>
+  
 
-## 📊 Stats
+## 📊 Github Stats
+Because we all love some stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rittme&theme=onedark&hide_border=false&include_all_commits=false&count_private=true" width="32%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rittme&theme=onedark&hide_border=false" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rittme&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="25%">
+</p>
 
-<h2 align="center">
-  <img style="margin:auto" src="https://github-profile-trophy.vercel.app/?username=rittme&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&column=5">
-</h2>
-
-<div align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rittme&count_private=true&theme=onedark&hide_border=true" alt="rittme" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rittme&show_icons=true&locale=en&layout=compact&count_private=true&theme=onedark&hide_border=true" alt="rittme" />
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rittme&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-frame=false&no-bg=false&column=7&margin-w=4">
+</p>
 <hr>
 
 <!--
